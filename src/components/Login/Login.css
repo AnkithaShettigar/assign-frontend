@@ -1,0 +1,18 @@
+.loginpage {
+  margin-top: 150px;
+  margin-left: 500px;
+}
+
+.input-group-text {
+  font-weight: 500;
+}
+.reg {
+  margin-top: 10px;
+  padding: 5px 138px;
+  background-color: rgb(13, 13, 94);
+  color: white;
+  border: none;
+}
+.in {
+  display: block;
+}

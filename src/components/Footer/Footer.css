@@ -1,0 +1,28 @@
+.footer {
+  background-color: rgb(209, 206, 206);
+  margin-top: 50px;
+  display: flex;
+  padding: 50px;
+  color: gray;
+}
+.fa-brands {
+  color: rgb(6, 47, 82);
+  font-size: 30px;
+}
+.fa-square-facebook {
+  margin-right: 3px;
+}
+.footer1 {
+  width: 500px;
+  margin-left: 20px;
+  line-height: 1.5;
+}
+.footer2,
+.footer3 {
+  width: 200px;
+  margin-left: 50px;
+}
+.footer4 {
+  width: 330px;
+  margin-left: 20px;
+}

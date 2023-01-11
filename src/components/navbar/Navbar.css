@@ -1,0 +1,29 @@
+.hire {
+  text-decoration: none;
+  color: white;
+  padding-left: 20px;
+  font-weight: 600;
+}
+.nav {
+  position: fixed;
+  z-index: 33;
+  display: flex;
+  background-color: black;
+  top: 0;
+  right: 0;
+  left: 0;
+}
+.navleft {
+  margin: 20px;
+  padding: 5px;
+}
+.navright {
+  margin-top: 50px;
+  margin-left: 250px;
+}
+a:hover {
+  color: skyblue;
+}
+.home {
+  text-decoration: none;
+}
